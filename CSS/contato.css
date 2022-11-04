@@ -1,4 +1,21 @@
+nav li {
+    display: inline;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+body {
+  background: #D2691E;
+}
+
 h1 {
-    font-size: 50px;
-    text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+#banner{
+  width: 100%;
 }
